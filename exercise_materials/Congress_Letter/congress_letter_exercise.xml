@@ -125,7 +125,7 @@
 	</teiHeader>
 	<text>
 		<body>
-			<pb facs="https://raw.githubusercontent.com/LEAF-VRE/training/main/getting_started/exercises/Congress_Letter/congress_letter_image1.jpg"/>
+			<pb cert="high" facs="https://raw.githubusercontent.com/LEAF-VRE/training/main/getting_started/exercises/Congress_Letter/congress_letter_image1.jpg" xml:space="default"/>
 
 			<opener>To the Honorable the Senate and House of Representatives of the United States in
 				Congress Assembled:</opener>
