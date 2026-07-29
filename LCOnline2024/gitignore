@@ -1,0 +1,15 @@
+# Ignore all log files
+*.log
+
+# Ignore the entire build directory
+/build/
+
+# Ignore a specific file
+secrets.txt
+
+# Ignore OS-specific files
+.DS_Store
+Thumbs.db
+
+# Ignore dependency caches
+node_modules/
